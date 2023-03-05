@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.006" height="32" viewBox="0 0 69.006 32">
+  <g id="badge_SALE" transform="translate(-532.749 -818.509)">
+    <g id="Group_4938" data-name="Group 4938" transform="translate(532.749 818.509)">
+      <path id="Path_1629" data-name="Path 1629" d="M536.928,1021.969v-5.2c-2.316-.011-4.179,1.165-4.179,2.6S534.62,1021.969,536.928,1021.969Z" transform="translate(-532.749 -989.969)" fill="#a50532"/>
+      <path id="Path_1630" data-name="Path 1630" d="M588.356,818.509H535.709a2.96,2.96,0,0,0-2.96,2.96v26.44c0-1.436,1.862-2.612,4.179-2.6h51.428a13.4,13.4,0,0,0,13.4-13.4h0A13.4,13.4,0,0,0,588.356,818.509Z" transform="translate(-532.749 -818.509)" fill="#f12b63"/>
+      <text id="SALE" transform="translate(12 19)" fill="#fff" font-size="16" font-family="PTSans-Bold, PT Sans" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">SALE</tspan></text>
+    </g>
+  </g>
+</svg>
